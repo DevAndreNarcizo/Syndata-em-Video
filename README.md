@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Guias Passo a Passo
 
 Bem-vindo ao projeto **Guias Passo a Passo**! Este site foi desenvolvido para fornecer instruções detalhadas e organizadas sobre diversos tópicos, ajudando os usuários a alcançar seus objetivos de forma prática e eficiente.
+=======
+# Syndata em Vídeo
+
+Bem-vindo ao projeto **Syndata em Vídeo**! Este site foi desenvolvido para fornecer instruções detalhadas e organizadas sobre diversos tópicos, ajudando os usuários a alcançar seus objetivos de forma prática e eficiente.
+>>>>>>> d898fecdc97aa177287aa878294937dd84d577ab
 
 ## Funcionalidades
 
@@ -12,8 +18,11 @@ Bem-vindo ao projeto **Guias Passo a Passo**! Este site foi desenvolvido para fo
 ## Tecnologias Utilizadas
 
 - **Frontend**: HTML, CSS, JavaScript
+<<<<<<< HEAD
 - **Backend**: [Especifique aqui, se aplicável]
 - **Outras ferramentas**: [Especifique bibliotecas ou frameworks adicionais]
+=======
+>>>>>>> d898fecdc97aa177287aa878294937dd84d577ab
 
 ## Como Executar o Projeto
 
