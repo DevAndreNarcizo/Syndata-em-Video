@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 # Guias Passo a Passo
 
 Bem-vindo ao projeto **Guias Passo a Passo**! Este site foi desenvolvido para fornecer instruções detalhadas e organizadas sobre diversos tópicos, ajudando os usuários a alcançar seus objetivos de forma prática e eficiente.
-=======
+
 # Syndata em Vídeo
 
 Bem-vindo ao projeto **Syndata em Vídeo**! Este site foi desenvolvido para fornecer instruções detalhadas e organizadas sobre diversos tópicos, ajudando os usuários a alcançar seus objetivos de forma prática e eficiente.
->>>>>>> d898fecdc97aa177287aa878294937dd84d577ab
 
 ## Funcionalidades
 
@@ -18,11 +16,6 @@ Bem-vindo ao projeto **Syndata em Vídeo**! Este site foi desenvolvido para forn
 ## Tecnologias Utilizadas
 
 - **Frontend**: HTML, CSS, JavaScript
-<<<<<<< HEAD
-- **Backend**: [Especifique aqui, se aplicável]
-- **Outras ferramentas**: [Especifique bibliotecas ou frameworks adicionais]
-=======
->>>>>>> d898fecdc97aa177287aa878294937dd84d577ab
 
 ## Como Executar o Projeto
 
@@ -39,11 +32,3 @@ Bem-vindo ao projeto **Syndata em Vídeo**! Este site foi desenvolvido para forn
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a [LICENÇA] (especifique a licença, se aplicável).
-
----
-
-**Nota**: Certifique-se de substituir os placeholders (`<URL_DO_REPOSITORIO>`, `[Especifique aqui]`, etc.) com as informações reais do projeto.
